@@ -11,7 +11,7 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 ```
 ---
 ## Installing the PulseSensor Playground
- <details><summary><code>How To Install:  </code> 🤓</summary>
+ <details><code>How To Install:  </code> 🤓<summary></summary>
 
 1.  On the main page of this repository, on the right side is a green button. Click on the green `Clone or Download ZIP` button and then select `Download ZIP`. Save the `.zip` file somewhere on your computer.
 
@@ -105,6 +105,7 @@ We put together a [HANDY FUNCTIONS GUIDE](https://github.com/biomurph/PulseSenso
 --- 
 
 ## TroubleShoot Your Signal: 
+
  <details><code> Ugh, Where's the Beat ? </code>😵</summary>
   If you're having trouble seeing a heartbeat, make sure that you are using 'Goldilocks' pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
   
@@ -113,14 +114,12 @@ If you are seeing way too many Beats Per Minute, or you are getting lots of nois
   ![StarterThreshold](https://github.com/biomurph/PulseSensorPlayground/blob/master/Images/screenshot-threshold-arrows.png)
   
 In the other examples, the `THRESHOLD` is defined at the top of the code.
-</div>
-  </details>
+
 
 ---
 
 ## Give and Get Feedback
-The [Issues Tab](https://github.com/WorldFamousElectronics/PulseSensorStarterProject/issues
-) will get you the quickest answers to common techinal questions. 
+The [Issues Tab](https://github.com/WorldFamousElectronics/PulseSensorStarterProject/issues) will get you the quickest answers to common techinal questions. 
 
 
 ---
