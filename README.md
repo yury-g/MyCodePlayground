@@ -114,7 +114,9 @@ If you are seeing way too many Beats Per Minute, or you are getting lots of nois
   ![StarterThreshold](https://github.com/biomurph/PulseSensorPlayground/blob/master/Images/screenshot-threshold-arrows.png)
   
 In the other examples, the `THRESHOLD` is defined at the top of the code.
-
+  
+</div>
+  </details>
 
 ---
 
