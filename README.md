@@ -11,7 +11,7 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 ```
 ---
 ## Installing the PulseSensor Playground
- <details><summary><code>Install the Playground in Arduino to get quick and easy access to popular projects.</code> </code> 🤓</summary>
+ <details><summary><code>How To Install:  </code> 🤓</summary>
 
 1.  On the main page of this repository, on the right side is a green button. Click on the green `Clone or Download ZIP` button and then select `Download ZIP`. Save the `.zip` file somewhere on your computer.
 
