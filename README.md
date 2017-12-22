@@ -10,8 +10,8 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 - Contritube your projects code back to the GitHub hive-mind. 🐝
 ```
 ---
-## Installing the Pulse Sensor Playground 🤓
- <details><summary><code>Installing The PulseSensor PlayGround</code> <code>cocoapodskeys</code> 🤓</summary>
+## Installing the PulseSensor Playground
+ <details><summary><code>Install the Playground in Aduino to get quick and easy access to lots of popular projects.</code> </code> 🤓</summary>
 
 1.  On the main page of this repository, on the right side is a green button. Click on the green `Clone or Download ZIP` button and then select `Download ZIP`. Save the `.zip` file somewhere on your computer.
 
