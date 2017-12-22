@@ -104,7 +104,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
 
 --- 
 
-## TroubleShoot Your Signal: 
+## Troubleshooting Your Signal: 
 
  <details><summary><code> Ugh, Where's the Beat ? </code>😵</summary>
   If you're having trouble seeing a heartbeat, make sure that you are using 'Goldilocks' pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
