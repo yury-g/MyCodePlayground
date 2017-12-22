@@ -10,7 +10,9 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 - Contritube your projects code back to the GitHub hive-mind. 🐝
 ```
 ---
-## Installing the Pulse Sensor Playground 🤓 
+## Installing the Pulse Sensor Playground 🤓
+ <details><summary><code>Installing The PulseSensor PlayGround</code> <code>cocoapodskeys</code> 🤓</summary>
+
 1.  On the main page of this repository, on the right side is a green button. Click on the green `Clone or Download ZIP` button and then select `Download ZIP`. Save the `.zip` file somewhere on your computer.
 
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/Download_Playground_ZIP_1024x1024.png?v=1510864702" width="400">
@@ -29,6 +31,10 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 	`File > Examples > PulseSensor Playground`
 
 Go to [PulseSensor.com](https://pulsesensor.com/) and click on the PROJECTS link to find tutorials that go with these code examples! 
+
+  
+</div>
+  </details>
 
 ---
 ## PulseSensor Playground Tools
