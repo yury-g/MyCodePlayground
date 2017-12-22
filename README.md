@@ -1,24 +1,3 @@
-# ReadMePlayground
-Personal Playground for ReadMe Usability MarkUp 
-- iCook TV: Taiwanese cuisine cooking videos  
-  <details><summary><code>swift</code> 🇨🇳 </summary>
-
-  https://github.com/polydice/iCook-tvOS<br>  Added May 25, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
-  <div><img height='300' alt='iCook TV image 1' src='http://polydice.com/iCook-tvOS/images/Screenshot.png'> 
-</div>
-  </details>
-
-- Provenance: Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more  
-  <details><summary><code>realm</code> 🔥🔥🔥🔥🔥</summary>
-
-  https://github.com/jasarien/Provenance<br>  Added April 27, 2015<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
-  <div><img height='300' alt='Provenance image 1' src='http://jamesaddyman.com/provenance/screenshots/provenance1.png'> <img height='300' alt='Provenance image 2' src='http://jamesaddyman.com/provenance/screenshots/provenance6.png'> 
-</div>
-  </details>
-  
-  
-  
-![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200) 
 # [PulseSensor.com](https://pulsesensor.com) Playground
 ```
 This Playground is a collection of code of the most popular uses of PulseSensor and Arduino.  
@@ -30,6 +9,8 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 ```
 ---
 ## Installing the Pulse Sensor Playground 🤓 
+ <details><summary><code>swift</code> 🇨🇳 
+	
 1.  On the main page of this repository, on the right side is a green button. Click on the green `Clone or Download ZIP` button and then select `Download ZIP`. Save the `.zip` file somewhere on your computer.
 
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/Download_Playground_ZIP_1024x1024.png?v=1510864702" width="400">
@@ -48,6 +29,10 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 	`File > Examples > PulseSensor Playground`
 
 Go to [PulseSensor.com](https://pulsesensor.com/) and click on the PROJECTS link to find tutorials that go with these code examples! 
+
+ </summary>
+
+
 
 ---
 ## PulseSensor Playground Tools
