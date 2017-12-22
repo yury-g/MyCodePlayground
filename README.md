@@ -50,7 +50,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
 ### Getting Started Project:  
   Plug your sensor in for the first time!  Blink an LED with your pulse, live. 
   
-- [**Project Guide**](https://pulsesensor.com/pages/code-and-guide)
+- [**Project Page**](https://pulsesensor.com/pages/code-and-guide)
   
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
 ---
@@ -59,7 +59,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
   Focus-in on the code that calculates a user's HeartRate Beats Per Minute, "BPM".    
   See the best practises to get the best signal.  
   
-- [**Project Guide**](https://pulsesensor.com/pages/getting-advanced)
+- [**Project Page**](https://pulsesensor.com/pages/getting-advanced)
   
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingAdvanced_bb_1024x1024.png?v=1511986194" width="400">
 ---
@@ -67,7 +67,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
 ### Make A Sound to a live Heartbeat:  
   Transform the heartbeat into a live "beep" with a speaker.  
    
-- [**Project Guide**](https://pulsesensor.com/pages/pulse-sensor-speaker-tutorial)
+- [**Project Page**](https://pulsesensor.com/pages/pulse-sensor-speaker-tutorial)
   
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_Speaker_bb_61a0333f-e868-4123-961d-7456a31fa928_1024x1024.png?v=1510863829" width="400">
 ---  
@@ -75,7 +75,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
 ### Move a Motor to a live Heartbeat:  
   Make a servo motor pulse to your live heartbeat.  
   
-- [**Project Guide**](https://pulsesensor.com/pages/pulse-sensor-servo-tutorial)
+- [**Project Page**](https://pulsesensor.com/pages/pulse-sensor-servo-tutorial)
 
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_Servo_bb_87fce9fc-dc47-4208-b708-a7edb6df58a2_1024x1024.png?v=1510863990" width="400">
  ---
@@ -84,7 +84,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
   
   Get detailed visulization of the heart's pulse and behavior. Send the PulseSensor data into Processing! 
   
-- [**Project Guide**](https://pulsesensor.com/pages/getting-advanced)
+- [**Project Page**](https://pulsesensor.com/pages/getting-advanced)
   
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/ScreenShot_1024x1024.png?v=1491857113" width="400">
 ---  
