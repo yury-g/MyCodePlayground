@@ -100,11 +100,12 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 
 ## PulseSensor Playground Functions Guide
 
-We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlayground/blob/master/resources/PulseSenaor%20Playground%20Tools.md) to the function-ality of our library. Check it out if you want to dive into the inner workings!
+We put together a [HANDY FUNCTIONS GUIDE](https://github.com/biomurph/PulseSensorPlayground/blob/master/resources/PulseSenaor%20Playground%20Tools.md) to the function-ality of our library. Check it out if you want to dive into the inner workings!
 
 --- 
 
-## TroubleShoot Your Signal:  
+## TroubleShoot Your Signal: 
+ <details><Houston, We Have a Problem><code>How To Install:  </code> 🤓</summary>
   If you're having trouble seeing a heartbeat, make sure that you are using 'Goldilocks' pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
   
 If you are seeing way too many Beats Per Minute, or you are getting lots of noise, try adjusting the Threshold setting. The Threshold variable tells Arduino when to find a pulse that is legit. Adjust this number (noted below with arrows) up for less sensitivity and down for more sensitivity. In the [**StarterProject**](https://pulsesensor.com/pages/code-and-guide) you can find the Threshold variable as shown in the pic below:
@@ -112,7 +113,8 @@ If you are seeing way too many Beats Per Minute, or you are getting lots of nois
   ![StarterThreshold](https://github.com/biomurph/PulseSensorPlayground/blob/master/Images/screenshot-threshold-arrows.png)
   
 In the other examples, the `THRESHOLD` is defined at the top of the code.
-
+</div>
+  </details>
 ---
 
 ## Give and Get Feedback
