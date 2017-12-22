@@ -27,10 +27,12 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 
 5. Navigate to the location where you downloded the `.zip` file previously and select it to install this library. (**NOTE** you may need to restart Arduino after this step)
 6. Hurray!  Once this library is installed you will see our examples in Arduino's dropdown! To select an example sketch, go to 
-
 	`File > Examples > PulseSensor Playground`
 
-Go to [PulseSensor.com](https://pulsesensor.com/) and click on the PROJECTS link to find tutorials that go with these code examples! 
+	<img src="https://github.com/yury-g/PulseSensorPlayground/blob/master/menupulldown.png?raw=true2" width="400">
+	
+
+  More Info On Libraries 👉    [https://www.arduino.cc/en/Guide/Libraries](https://www.arduino.cc/en/Guide/Libraries).
 
   
 </div>
