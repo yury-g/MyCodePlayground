@@ -98,8 +98,8 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 ## PulseSensor Playground Functions Guide
 
 We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlayground/blob/master/resources/PulseSenaor%20Playground%20Tools.md) to the function-ality of our library. Check it out if you want to dive into the inner workings!
----
-  
+
+--- 
 
 ### TroubleShoot Your Signal:  
   If you're having trouble seeing a heartbeat, make sure that you are using 'Goldilocks' pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
