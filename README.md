@@ -9,13 +9,14 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 - Switch between projects right in the Arduino IDE (software). 💻
 - Contritube your projects code back to the GitHub hive-mind. 🐝
 ```
+
 ---
 ## Install the PulseSensor Playground Library ! 
  <details><summary><code>How To Install:  </code> 🤓</summary>
-(**NOTE** If you do not have Arduino, you can download it [here](https://www.arduino.cc/en/Main/Software))
 
 An Arduino Library is a collection of code and examples on a specific topic or device.  For example, our PulseSensor Playground Library is a collection of code and projects made just for your PulseSensor and Arduino. 
 
+(**NOTE** If you do not have Arduino, you can download it [here](https://www.arduino.cc/en/Main/Software))
 
 To use a Library you need to install it.  Inside of the Arduino software, to 
 `Sketch > Include Library > Add .ZIP Library...`
