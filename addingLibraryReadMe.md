@@ -7,26 +7,28 @@ What are Libraries?
 
 Libraries are a collection of code that makes it easy for you to connect to a sensor, display, module, etc. For example, our PulseSensor Library is a collection of code and projects to get the most out of your PulseSensor. 
 
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/Download_Playground_ZIP_1024x1024.png?v=1510864702" width="400">
+  <img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ManageLibraries.png" width="400">
 
 
-To use a Libaray you need to install it.  
-Arduino Navigate to `Sketch > Include Library > Add .ZIP Library...`
+To use a Library you need to install it.  Inside of the Arduino software, to `Sketch > Include Library > Add .ZIP Library...`
 
 	(**NOTE** If you do not have Arduino, you can download it [here](https://www.arduino.cc/en/Main/Software))
 
+
 3. Search for and Select  `"PulseSensor.com`
 
-	<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/Add_ZIP_LIbrary_1024x1024.png?v=1510865023" width="400">
+	<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/SearchForPulseSensor.png" width="400">
+	
 
 Install or update to the lastest version.  
 
+<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/InstallLatestVersion.png" width="400">
 
 
  Hurray!  Once this library is installed you will see our examples in Arduino's dropdown! To select an example sketch, go to 
 	`File > Examples > PulseSensor Playground`
 
-	<img src="https://github.com/yury-g/PulseSensorPlayground/blob/master/menupulldown.png?raw=true2" width="400">
+	<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ExamplesPlaygroundGettingStartedMenuPullDown.png" width="400">
 	
 More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libraries](https://www.arduino.cc/en/Guide/Libraries).
 
