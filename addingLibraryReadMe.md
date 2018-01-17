@@ -9,15 +9,18 @@ An Arduino Library is a collection of code and examples on a specific topic or d
 
 To use a Library you need to install it.  Inside of the Arduino software, to 
 `Sketch > Include Library > Add .ZIP Library...`
+
 <img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ManageLibraries.png" width="550">
 
 	
 In the Library Manager: Search for and Select
 `"PulseSensor.com`
+
 <img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/SearchForPulseSensor.png" width="550">
 	
 	
-Install or update to the lastest version.👍  
+Install or update to the lastest version.👍 
+
 <img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/InstallLatestVersion.png" width="550">
 
 
