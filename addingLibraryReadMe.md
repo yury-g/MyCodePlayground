@@ -1,28 +1,34 @@
 
 ---
-## Installing the PulseSensor Playground
+## Install the PulseSensor Playground Library ! 
  <details><summary><code>How To Install:  </code> 🤓</summary>
 
-1.  On the main page of this repository, on the right side is a green button. Click on the green `Clone or Download ZIP` button and then select `Download ZIP`. Save the `.zip` file somewhere on your computer.
+What are Libraries?
+
+Libraries are a collection of code that makes it easy for you to connect to a sensor, display, module, etc. For example, our PulseSensor Library is a collection of code and projects to get the most out of your PulseSensor. 
 
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/Download_Playground_ZIP_1024x1024.png?v=1510864702" width="400">
 
-2. Open up the Arduino IDE.
+
+To use a Libaray you need to install it.  
+Arduino Navigate to `Sketch > Include Library > Add .ZIP Library...`
 
 	(**NOTE** If you do not have Arduino, you can download it [here](https://www.arduino.cc/en/Main/Software))
 
-3. Select `Sketch > Include Library > Add .ZIP Library...`
+3. Search for and Select  `"PulseSensor.com`
 
 	<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/Add_ZIP_LIbrary_1024x1024.png?v=1510865023" width="400">
 
-5. Navigate to the location where you downloded the `.zip` file previously and select it to install this library. (**NOTE** you may need to restart Arduino after this step)
-6. Hurray!  Once this library is installed you will see our examples in Arduino's dropdown! To select an example sketch, go to 
+Install or update to the lastest version.  
+
+
+
+ Hurray!  Once this library is installed you will see our examples in Arduino's dropdown! To select an example sketch, go to 
 	`File > Examples > PulseSensor Playground`
 
 	<img src="https://github.com/yury-g/PulseSensorPlayground/blob/master/menupulldown.png?raw=true2" width="400">
 	
-	
-  More Info On Libraries 👉    [https://www.arduino.cc/en/Guide/Libraries](https://www.arduino.cc/en/Guide/Libraries).
+More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libraries](https://www.arduino.cc/en/Guide/Libraries).
 
   
 </div>
@@ -30,9 +36,6 @@
 
  
 ---
-What are Libraries?
-
-Libraries are a collection of code that makes it easy for you to connect to a sensor, display, module, etc. For example, the built-in LiquidCrystal library makes it easy to talk to character LCD displays. There are hundreds of additional libraries available on the Internet for download. The built-in libraries and some of these additional libraries are listed in the reference. To use the additional libraries, you will need to install them.
 
 How to Install a Library
 
