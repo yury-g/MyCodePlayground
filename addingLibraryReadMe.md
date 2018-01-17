@@ -1,14 +1,4 @@
 
-![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200) 
-# [PulseSensor.com](https://pulsesensor.com) Playground
-```
-This Playground is a collection of code of the most popular uses of PulseSensor and Arduino.  
-
-- The playgroud includes a number of projects, with the code already written-out and commented! 🤘 
-- Use this code to get started quickly, or do advanced stuff. 👍
-- Switch between projects right in the Arduino IDE (software). 💻
-- Contritube your projects code back to the GitHub hive-mind. 🐝
-```
 ---
 ## Installing the PulseSensor Playground
  <details><summary><code>How To Install:  </code> 🤓</summary>
@@ -40,93 +30,19 @@ This Playground is a collection of code of the most popular uses of PulseSensor 
 
  
 ---
-## Playground Project Descriptions: 
+What are Libraries?
+
+Libraries are a collection of code that makes it easy for you to connect to a sensor, display, module, etc. For example, the built-in LiquidCrystal library makes it easy to talk to character LCD displays. There are hundreds of additional libraries available on the Internet for download. The built-in libraries and some of these additional libraries are listed in the reference. To use the additional libraries, you will need to install them.
+
+How to Install a Library
+
+Using the Library Manager
+
+To install a new library into your Arduino IDE you can use the Library Manager (available from IDE version 1.6.2). Open the IDE and click to the "Sketch" menu and then Include Library > Manage Libraries.
 
 
-### Getting Started Project:  
-  Plug your sensor in for the first time!  Blink an LED with your pulse, live. 
-  
-- [**Project Page**](https://pulsesensor.com/pages/code-and-guide)
-  
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
----
-
-### Calculate BPM:  
-  Focus-in on the code that calculates a user's HeartRate Beats Per Minute, "BPM".    
-  See the best practises to get the best signal.  
-  
-- [**Project Page**](https://pulsesensor.com/pages/getting-advanced)
-  
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingAdvanced_bb_1024x1024.png?v=1511986194" width="400">
----
-  
-### Make A Sound to a live Heartbeat:  
-  Transform the heartbeat into a live "beep" with a speaker.  
-   
-- [**Project Page**](https://pulsesensor.com/pages/pulse-sensor-speaker-tutorial)
-  
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_Speaker_bb_61a0333f-e868-4123-961d-7456a31fa928_1024x1024.png?v=1510863829" width="400">
----  
-  
-### Move a Motor to a live Heartbeat:  
-  Make a servo motor pulse to your live heartbeat.  
-  
-- [**Project Page**](https://pulsesensor.com/pages/pulse-sensor-servo-tutorial)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_Servo_bb_87fce9fc-dc47-4208-b708-a7edb6df58a2_1024x1024.png?v=1510863990" width="400">
- ---
- 
-### Processing Visualizer:
-  
-  Get detailed visulization of the heart's pulse and behavior. Send the PulseSensor data into Processing! 
-  
-- [**Project Page**](https://pulsesensor.com/pages/getting-advanced)
-  
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/ScreenShot_1024x1024.png?v=1491857113" width="400">
-
----
-
-## Connecting the Harware 😎
-1. Prepare the sensor, with the Kit parts.
-
-<img src="https://cdn.shopify.com/s/files/1/0100/6632/products/PulseSensorKit-Labeled-Contents_1_2048x2048.jpg?v=1348506345" width="400">
-
-2. See the recommended wiring for your specific project
-
-<img src="https://github.com/WorldFamousElectronics/PulseSensorStarterProject/blob/master/connections.png" width="400">
-<img src="https://github.com/WorldFamousElectronics/PulseSensorStarterProject/raw/master/Arduino-LEDonPin13-PulseSensor-Pic.jpg" width="400">
-
----
-
-## The Functions Guide
-
-We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlayground/blob/master/resources/PulseSenaor%20Playground%20Tools.md) to the function-ality of our library. Check it out if you want to dive into the inner workings!
-
---- 
-
-## Troubleshooting Your Signal: 
-
- <details><summary><code> Ugh, Where's the Beat ? </code>😵</summary>
-  If you're having trouble seeing a heartbeat, make sure that you are using 'Goldilocks' pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
-  
-If you are seeing way too many Beats Per Minute, or you are getting lots of noise, try adjusting the Threshold setting. The Threshold variable tells Arduino when to find a pulse that is legit. Adjust this number (noted below with arrows) up for less sensitivity and down for more sensitivity. In the [**StarterProject**](https://pulsesensor.com/pages/code-and-guide) you can find the Threshold variable as shown in the pic below:
-  
-  ![StarterThreshold](https://github.com/biomurph/PulseSensorPlayground/blob/master/Images/screenshot-threshold-arrows.png)
-  
-In the other examples, the `THRESHOLD` is defined at the top of the code.
-  
-</div>
-   </details>
-
----
-
-## Give and Get Feedback
-The [Issues Tab](https://github.com/WorldFamousElectronics/PulseSensorStarterProject/issues) will get you the quickest answers to common techinal questions. 
+Then the library manager will open and you will find a list of libraries that are already installed or ready for installation. In this example we will install the Bridge library. Scroll the list to find it, then select the version of the library you want to install. Sometimes only one version of the library is available. If the version selection menu does not appear, don't worry: it is normal.
 
 
----
-
-#### Legal:  PulseSensor.com® World Famous Electronics llc. in Brooklyn, NY. USA
-
- 
+Finally click on install and wait for the IDE to install the new library. Downloading may take time depending on your connection speed. Once it has finished, an Installed tag should appear next to the Bridge library. You can close the library manager.
 
