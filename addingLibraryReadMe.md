@@ -25,9 +25,12 @@ Install or update to the lastest version.👍
 
 
 Hurray!  Once this library is installed you will see our examples in Arduino's dropdown! 
-To select an example sketch, go to `File > Examples > PulseSensor Playground`
+To select an example sketch, go to 
+`File > Examples > PulseSensor Playground`
+
 
 <img src="https://github.com/yuryg/MyCodePlayground/blob/master/images/ExamplesPlaygroundGettingStartedMenuPullDown.png" width="550">
+
 
 
 More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libraries](https://www.arduino.cc/en/Guide/Libraries).
