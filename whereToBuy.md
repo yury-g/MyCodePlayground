@@ -6,9 +6,12 @@ A lot of people ask us: "hey, how can we buy a legit PulseSensor from you two?".
 
 USA  🇺🇸
 Amazon Prime
+https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0
+
+UK  🇬🇧
+https://www.amazon.co.uk/dp/B01CPP4QM0
 
 France  🇫🇷
-
 https://www.amazon.fr/dp/B01CPP4QM0
 
 Spain  🇪🇸  
@@ -19,9 +22,6 @@ https://www.amazon.de/dp/B01CPP4QM0
 
 Italy 🇮🇹
 Coming Shortly. 
-
-UK  🇬🇧
-https://www.amazon.co.uk/dp/B01CPP4QM0
 
 Canada  🇨🇦
 Coming Shortly. 
