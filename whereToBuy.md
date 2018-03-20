@@ -44,7 +44,7 @@ Not Yet,  But look in the store you bought your Arduino and Rasberry Pi's from.
 
 
 ---------
-Also Available Worldwide From Our Freinds: 🗺
+Also Available Worldwide From Our Freinds
 SparkFun
 AdaFruit
 
