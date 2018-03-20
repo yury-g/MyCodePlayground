@@ -1,4 +1,8 @@
 
+---
+## Install the PulseSensor Playground Library ! 
+ <details><summary><code>How To Install:  </code> 🤓</summary>
+
 From us, Joel and Yury in Brooklyn NY via World Famous Electronics. 
 Offical "PulseSensor.com Device" 
 
@@ -52,5 +56,10 @@ AdaFruit
 ---------
 Or, make your own!
 New Files Here
+
+
+  
+</div>
+</details> 
 
 
