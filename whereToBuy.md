@@ -1,15 +1,13 @@
 
 ---
-## Install the PulseSensor Playground Library ! 
- <details><summary><code>How To Install:  </code> 🤓</summary>
+## Getting The Hardware 
+ <details><summary><code>Where to Buy </code> 🤓</summary>
 
-From us, Joel and Yury in Brooklyn NY via World Famous Electronics. 
-Offical "PulseSensor.com Device" 
+A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
+Depending on where you live, we generally send people here:
 
-A lot of people ask us: "hey, how can we buy a legit PulseSensor from you two?".  Depending on where you live, we'd genereally reply with below links:
 
 USA  🇺🇸
-Amazon Prime
 https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0
 
 UK  🇬🇧
@@ -46,17 +44,17 @@ Argentina 🇦🇷
 Not Yet,  But look in the store you bought your Arduino and Rasberry Pi's from. 
 
 
-
 ---------
 Also Available Worldwide From Our Freinds
-SparkFun
-AdaFruit
-
+SparkFun: https://www.sparkfun.com/products/11574
+AdaFruit: https://www.adafruit.com/product/1093
 
 ---------
 Or, make your own!
 New Files Here
 
+
+[ PLEASE NOTE: THIS IS NOT A COMPLETE LIST, WE HOPE TO BE AVILABLE WORLD-WIDE ]
 
   
 </div>
