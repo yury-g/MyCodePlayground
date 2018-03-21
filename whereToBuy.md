@@ -36,27 +36,26 @@ Depending on where you live, we generally send people here:
 | ------------- | ------------- |
 |  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.es/dp/B01CPP4QM0 |
 
+| Germany  🇩🇪   | verified ✔︎ |
+| ------------- | ------------- |
+| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.de/dp/B01CPP4QM0 |
+
 | USA 🇺🇸  |verified ✔︎ |
 | ------------- | ------------- |
 | <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
-| USA 🇺🇸  |verified ✔︎ |
-| ------------- | ------------- |
-|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
-
 | USA 🇺🇸  | verified ✔︎ |
 | ------------- | ------------- |
-|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
 | USA 🇺🇸  | |
-| ------------- | ------------- |
-|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
 
 
 
 
-Germany  🇩🇪  https://www.amazon.de/dp/B01CPP4QM0
+ https://www.amazon.de/dp/B01CPP4QM0
 
 Italy 🇮🇹  Coming Shortly. 
 
