@@ -12,7 +12,7 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 
 ---
 ## Getting The Hardware 
- <details><summary><code>Where to Buy </code> 🤑 </summary>
+ <details><summary><code>Where to Buy </code> 💳/💰 </summary>
 
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
@@ -27,10 +27,33 @@ Depending on where you live, we generally send people here:
 |   | https://www.amazon.co.uk/dp/B01CPP4QM0  |
 |   | https://shop.pimoroni.com/products/pulse-sensor-amped  |
   
+| France  🇫🇷    | |
+| ------------- | ------------- |
+|  | https://www.amazon.fr/dp/B01CPP4QM0 |
 
-France  🇫🇷  https://www.amazon.fr/dp/B01CPP4QM0
+| Spain  🇪🇸    | |
+| ------------- | ------------- |
+|   | https://www.amazon.es/dp/B01CPP4QM0 |
 
-Spain  🇪🇸  https://www.amazon.es/dp/B01CPP4QM0
+| USA 🇺🇸  | |
+| ------------- | ------------- |
+|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+
+| USA 🇺🇸  | |
+| ------------- | ------------- |
+|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+
+| USA 🇺🇸  | |
+| ------------- | ------------- |
+|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+
+| USA 🇺🇸  | |
+| ------------- | ------------- |
+|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+
+
+
+
 
 Germany  🇩🇪  https://www.amazon.de/dp/B01CPP4QM0
 
