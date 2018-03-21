@@ -17,7 +17,7 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
 
-| USA  | 🇺🇸 |
+| USA 🇺🇸  | |
 | ------------- | ------------- |
 |   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
