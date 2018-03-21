@@ -37,7 +37,7 @@ Depending on where you live, we generally send people here:
 
 | Spain  🇪🇸    | |
 | ------------- | ------------- |
-|   | https://www.amazon.es/dp/B01CPP4QM0 |
+|  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.es/dp/B01CPP4QM0 |
 
 | USA 🇺🇸  | |
 | ------------- | ------------- |
