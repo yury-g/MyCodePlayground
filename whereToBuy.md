@@ -53,6 +53,13 @@ AdaFruit: https://www.adafruit.com/product/1093
 [ PLEASE NOTE: THIS IS NOT A COMPLETE LIST ]
 
 ---------
+
+
+  
+</div>
+</details> 
+
+
 ---
 ## Install the PulseSensor Playground Library !
  <details><summary><code>How To Install:  </code> 🤓</summary>
@@ -105,11 +112,5 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
 ---
 
-
-
-
-  
-</div>
-</details> 
 
 
