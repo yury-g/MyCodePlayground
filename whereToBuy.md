@@ -1,5 +1,6 @@
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
+
 # [PulseSensor.com](https://pulsesensor.com) Playground
 ```
 This Playground is a collection of code for the most popular uses of PulseSensor and Arduino.  
@@ -19,7 +20,8 @@ Depending on where you live, we generally send people here:
 
 | USA 🇺🇸  | |
 | ------------- | ------------- |
-|   | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+| ![logo](https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732)
+  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
     
 | UK  🇬🇧  |  |
