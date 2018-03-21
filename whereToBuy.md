@@ -18,19 +18,17 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
 
-| USA 🇺🇸  | |
+| USA 🇺🇸  | verified  |
 | ------------- | ------------- |
-| ![logo](https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732)
-  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
     
-| UK  🇬🇧  |  |
+| UK  🇬🇧  | verified |
 | ------------- | ------------- |
-| ![logo](https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732)
-  | https://www.amazon.co.uk/dp/B01CPP4QM0  |
-|   | https://shop.pimoroni.com/products/pulse-sensor-amped  |
+|<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.co.uk/dp/B01CPP4QM0  |
+| <img src="https://cdn.shopify.com/s/files/1/0174/1800/t/44/assets/favicon.png?6770617898231080219">  | https://shop.pimoroni.com/products/pulse-sensor-amped  |
   
-| France  🇫🇷    | |
+| France  🇫🇷    | verified |
 | ------------- | ------------- |
 |<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.fr/dp/B01CPP4QM0 |
 
