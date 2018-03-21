@@ -17,10 +17,16 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
 
-
-USA  🇺🇸  https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0
-
-UK  🇬🇧  https://www.amazon.co.uk/dp/B01CPP4QM0
+| USA  | 🇺🇸 |
+| ------------- | ------------- |
+| https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0  | Content Cell  |
+| Content Cell  | Content Cell  |
+    
+| UK  🇬🇧  |  |
+| ------------- | ------------- |
+|   | https://www.amazon.co.uk/dp/B01CPP4QM0  |
+|   | https://shop.pimoroni.com/products/pulse-sensor-amped  |
+  
 
 France  🇫🇷  https://www.amazon.fr/dp/B01CPP4QM0
 
