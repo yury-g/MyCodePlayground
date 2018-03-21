@@ -8,12 +8,12 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 - The playgroud includes a number of projects, with the code already written-out and commented! 🤘 
 - Use this code to get started quickly, or do advanced stuff. 
 - Switch between projects right in the Arduino IDE (software). 
-- Contritube your projects code back to the GitHub hive-mind. 🐝
+- Contritube your projects code back to the GitHub hive-mind. 
 ```
 
 ---
 ## Getting The Hardware 
- <details><summary><code>Where to Buy </code> 💳/💰 </summary>
+ <details><summary><code>Where to Buy </code> 💰 </summary>
 
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
@@ -40,43 +40,30 @@ Depending on where you live, we generally send people here:
 | ------------- | ------------- |
 | <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.de/dp/B01CPP4QM0 |
 
-| USA 🇺🇸  |verified ✔︎ |
+| Italy 🇮🇹  |verified ✔︎ |
 | ------------- | ------------- |
 | <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
-| USA 🇺🇸  | verified ✔︎ |
+| Canada  🇨🇦  | verified ✔︎ |
 | ------------- | ------------- |
 | <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
-| USA 🇺🇸  | |
+| Mexico  🇲🇽  | |
 | <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
 
+| Japan  🇯🇵  | |
+| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
+
+| Available Worldwide  🌏  | verified ✔︎  |
+| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.pulsesensor.com |
+|<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.adafruit.com/product/1093 |
+| <img src="https://cdn.shopify.com/s/files/1/0174/1800/t/44/assets/favicon.png?6770617898231080219" width="32">  | https://www.sparkfun.com/products/11574  |
 
 
+ 
 
-
- https://www.amazon.de/dp/B01CPP4QM0
-
-Italy 🇮🇹  Coming Shortly. 
-
-Canada  🇨🇦  Coming Shortly. 
-
-Mexico  🇲🇽  Coming Shortly. 
-
-Japan  🇯🇵  Coming Shortly. 
-
-India  🇮🇳  Not Yet,  But look in the store you bought your Arduino and Rasberry Pi's from. 
-
-Brazil 🇧🇷  Not Yet,  But look in the store you bought your Arduino and Rasberry Pi's from. 
-
-Argentina 🇦🇷  Not Yet,  But look in the store you bought your Arduino and Rasberry Pi's from. 
-
-
----------
-
-Also Available Worldwide From Our Freinds
-SparkFun: https://www.sparkfun.com/products/11574
-AdaFruit: https://www.adafruit.com/product/1093
+SparkFun: 
+AdaFruit: 
 
 
 [ PLEASE NOTE: THIS IS NOT A COMPLETE LIST ]
