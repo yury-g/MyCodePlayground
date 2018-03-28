@@ -139,7 +139,7 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 ---
 ## Developer Resources:
 
-<details><summary><code> Troubleshooting / Wiki / Function Guide  </code>  </summary>
+<b><details><summary><code> Troubleshooting / Wiki / Function Guide  </code>  </summary></b>
 
 ### The Functions Guide
 
@@ -149,7 +149,7 @@ We put together a [HANDY GUIDE](https://github.com/biomurph/PulseSensorPlaygroun
 
 ### Troubleshooting Your Signal: 
 
- <details><summary><code> Ugh, Where's the Beat ? </code>😵</summary>
+ <b><details><summary><code> Ugh, Where's the Beat ? </code>😵</summary></b>
   If you're having trouble seeing a heartbeat, make sure that you are using 'Goldilocks' pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
   
 If you are seeing way too many Beats Per Minute, or you are getting lots of noise, try adjusting the Threshold setting. The Threshold variable tells Arduino when to find a pulse that is legit. Adjust this number (noted below with arrows) up for less sensitivity and down for more sensitivity. In the [**StarterProject**](https://pulsesensor.com/pages/code-and-guide) you can find the Threshold variable as shown in the pic below:
