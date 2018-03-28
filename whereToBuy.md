@@ -22,8 +22,8 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 
 
 ---
-## Loading the Playground in the Arduino Application
- <b><details><summary><code> Steps For Getting the Playground Examples  </code> 🤓</summary></b>
+## Loading the Playground
+ <b><details><summary><code> Steps For Loading the Playground in Arduino  </code> 🤓</summary></b>
 ### 
 
 An Arduino Library is a collection of code and examples on a specific topic or device.  For example, our PulseSensor Playground Library is a collection of code and projects made just for your PulseSensor and Arduino.
@@ -63,10 +63,10 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 </details>
 
 ---
-## Arduino Playground Project Descriptions:
+## Playground Project Descriptions:
 <b><details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏽‍💻👩🏻‍🔬</summary></b>
 
-### Getting Started Project:  
+### The "Getting Started" Project:  
   Plug your sensor in for the first time!  Blink an LED with your pulse, live.
 
 - [**Project Page**](https://pulsesensor.com/pages/code-and-guide)
