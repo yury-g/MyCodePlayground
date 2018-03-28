@@ -191,6 +191,16 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_PTT-17042_grande.jpg?v=1517336059" width="400">
 
 ---
+## Arduino Playground Project Descriptions:
+<details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏽‍💻👩🏻‍🔬</summary>
+
+### Getting Started Project:  
+  Plug your sensor in for the first time!  Blink an LED with your pulse, live.
+
+- [**Project Page**](https://pulsesensor.com/pages/code-and-guide)
+
+  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
+---
 
 </div>
 </details>
