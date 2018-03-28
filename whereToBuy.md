@@ -20,11 +20,18 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 
 
 
-## Hardware:
-
+## Connecting the Harware 😎
 <b><details><summary><code> Easy  Setup  </code>  </summary></b>
 
-blablah
+1. Prepare the sensor, with the Kit parts.
+
+<img src="https://cdn.shopify.com/s/files/1/0100/6632/products/PulseSensorKit-Labeled-Contents_1_2048x2048.jpg?v=1348506345" width="400">
+
+2. See the recommended wiring for your specific project
+
+<img src="https://github.com/WorldFamousElectronics/PulseSensorStarterProject/raw/master/connections.png" width="400">
+
+<img src="https://github.com/WorldFamousElectronics/PulseSensorStarterProject/raw/master/Arduino-LEDonPin13-PulseSensor-Pic.jpg" width="400">
 
 </div>
 </details>
