@@ -1,6 +1,6 @@
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
-# [PulseSensor.com](https://pulsesensor.com) Playground
+## [PulseSensor.com](https://pulsesensor.com) Playground
 [![Alt text](https://github.com/yury-g/MyCodePlayground/blob/master/screenshot-opener-video.png?raw=true)](https://youtu.be/RbB8NSRa5X4)
 
 ```
