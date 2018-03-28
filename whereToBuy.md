@@ -20,13 +20,12 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 ---
 
 ## Places to Buy A Verifted Sensor 
- <details><summary><code> Where to buy Verified Sensors </code> 💰 </summary>
+  Where to buy Verified Sensors 💰 
 
- <a href="https://github.com/WorldFamousElectronics/PulseSensorPlayground/wiki/Buy-%22Verified-PulseSensor.com%22">PulseSensor</a>  
+ <a href="https://github.com/WorldFamousElectronics/PulseSensorPlayground/wiki/Buy-%22Verified-PulseSensor.com%22">Where to buy Verified Sensors 💰 </a>  
 
   
-</div>
-</details> 
+
 
 
 ---
@@ -41,24 +40,24 @@ An Arduino Library is a collection of code and examples on a specific topic or d
 To install the PulseSensor Playground Library, in Arduino, to go
 `Sketch > Include Library > Manage Library...`
 
-<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ManageLibraries.png" width="550">
+<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ManageLibraries.png" width="500">
 
 
 In the Library Manager: Search for and Select
 `"PulseSensor.com`
 
-<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/SearchForPulseSensor.png" width="550">
+<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/SearchForPulseSensor.png" width="500">
 
 
 Install or update to the lastest version.👍
 
-<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/InstallLatestVersion.png" width="550">
+<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/InstallLatestVersion.png" width="500">
 
 
 Hurray!  Once this library is installed you will see our examples in Arduino's dropdown!
 To select an example project, go to:
 `File > Examples > PulseSensor Playground > GettingStartedProject`
-<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ExamplesPlaygroundGettingStartedMenuPullDown.png" width="550">
+<img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/ExamplesPlaygroundGettingStartedMenuPullDown.png" width="500">
 
 
 
