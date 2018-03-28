@@ -19,66 +19,10 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 
 ---
 
-## Getting The Hardware 
- <details><summary><code>Where to Buy </code> 💰 </summary>
+## Places to Buy A Verifted Sensor 
+ <details><summary><code> Where to buy Verified Sensors </code> 💰 </summary>
 
-A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
-Depending on where you live, we generally send people here:
-
-
-
-| USA 🇺🇸  |verified ✔︎  |
-| ------------- | ------------- |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
-
-    
-| UK  🇬🇧  | verified ✔︎ |
-| ------------- | ------------- |
-|<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.co.uk/dp/B01CPP4QM0  |
-| <img src="https://cdn.shopify.com/s/files/1/0174/1800/t/44/assets/favicon.png?6770617898231080219" width="32">  | https://shop.pimoroni.com/products/pulse-sensor-amped  |
-  
-| France  🇫🇷    | verified ✔︎ |
-| ------------- | ------------- |
-|<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.fr/dp/B01CPP4QM0 |
-
-| Spain  🇪🇸    | verified ✔︎|
-| ------------- | ------------- |
-|  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.amazon.es/dp/B01CPP4QM0 |
-
-| Germany  🇩🇪   | verified ✔︎ |
-| ------------- | ------------- |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.de/dp/B01CPP4QM0 |
-
-| Italy 🇮🇹  |verified ✔︎ |
-| ------------- | ------------- |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
-
-| Canada  🇨🇦  | verified ✔︎ |
-| ------------- | ------------- |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
-
-| Mexico  🇲🇽  | |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
-
-| Japan  🇯🇵  | |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.amazon.com/PulseSensor-com-Original-Pulse-Sensor-project/dp/B01CPP4QM0 |
-
-| Available Worldwide  🌏  | verified ✔︎  |
-| <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732">  | https://www.pulsesensor.com |
-|<img src="https://cdn.shopify.com/s/files/1/0100/6632/files/7002937_b52c58ec-4dfb-4068-996f-8028d98d9fa3_32x32.png?v=1491756732"> | https://www.adafruit.com/product/1093 |
-| <img src="https://cdn.shopify.com/s/files/1/0174/1800/t/44/assets/favicon.png?6770617898231080219" width="32">  | https://www.sparkfun.com/products/11574  |
-
-
- 
-
-SparkFun: 
-AdaFruit: 
-
-
-[ PLEASE NOTE: THIS IS NOT A COMPLETE LIST ]
-
----------
-
+ <a href="https://github.com/WorldFamousElectronics/PulseSensorPlayground/wiki/Buy-%22Verified-PulseSensor.com%22">PulseSensor</a>  
 
   
 </div>
