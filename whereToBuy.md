@@ -28,7 +28,7 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 
 ---
 ## Install the PulseSensor Playground Library !
- <details><summary><code>How To Install:  </code> 🤓</summary>
+ <b><details><summary><code>How To Install:  </code> 🤓</summary></b>
 ### 
 
 An Arduino Library is a collection of code and examples on a specific topic or device.  For example, our PulseSensor Playground Library is a collection of code and projects made just for your PulseSensor and Arduino.
