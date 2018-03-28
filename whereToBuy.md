@@ -7,11 +7,6 @@
 
 
 
-## Getting The Hardware 
- <details><summary><code>Where to Buy </code> 💰 </summary>
- 
- 
-
 ## [PulseSensor.com](https://pulsesensor.com) Playground
 ```
 This Playground is a collection of code for the most popular uses of PulseSensor and Arduino.  
