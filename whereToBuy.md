@@ -16,12 +16,22 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 
 ## Places to Buy a Verified PulseSensor.com Sensor's 
  <b><a href="https://github.com/WorldFamousElectronics/PulseSensorPlayground/wiki/Buy-%22Verified-PulseSensor.com%22"> Where to buy Verified Sensors 💰 </a>  </b>
-
-  
-
-
-
 ---
+
+
+
+## Hardware:
+
+<b><details><summary><code> Easy  Setup  </code>  </summary></b>
+
+blablah
+
+</div>
+</details>
+
+
+
+
 ## Loading the Playground
  <b><details><summary><code> Steps For Loading the Playground in Arduino  </code> 🤓</summary></b>
 ### 
