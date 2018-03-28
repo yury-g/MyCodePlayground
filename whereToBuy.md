@@ -191,7 +191,7 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 
 ---
 ## Arduino Playground Project Descriptions:
-<details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏽‍💻👩🏻‍🔬</summary>
+<details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏻‍🔬</summary>
 
 ### Getting Started Project:  
   Plug your sensor in for the first time!  Blink an LED with your pulse, live.
@@ -203,3 +203,11 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 
 </div>
 </details>
+
+
+<details><summary><code> Developer Resources </code> 👩🏽‍💻 </summary>
+
+  
+</div>
+</details> 
+
