@@ -190,6 +190,11 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_PTT-17042_grande.jpg?v=1517336059" width="400">
 
 ---
+
+</div>
+</details>
+
+
 ## Arduino Playground Project Descriptions:
 <details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏻‍🔬</summary>
 
