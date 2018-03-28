@@ -155,7 +155,7 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 
 ## Developer Resources:
 
-<b><details><summary><code> Troubleshooting / Wiki / Function Guide  </code>  </summary></b>
+<b><details><summary><code> Troubleshooting / Issues / Function Guide  </code>  </summary></b>
 
 ### The Functions Guide
 
