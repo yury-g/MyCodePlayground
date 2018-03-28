@@ -72,7 +72,11 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 </div>
 </details>
 
----
+
+
+
+
+
 ## Playground Project Descriptions:
 <b><details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏽‍💻👩🏻‍🔬</summary></b>
 
@@ -141,7 +145,7 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 </details>
 
 
----
+
 ## Developer Resources:
 
 <b><details><summary><code> Troubleshooting / Wiki / Function Guide  </code>  </summary></b>
