@@ -25,8 +25,7 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
 
-###Place 1
-[here](#place-2)
+
 
 | USA 🇺🇸  |verified ✔︎  |
 | ------------- | ------------- |
@@ -123,84 +122,6 @@ To select an example project, go to:
 
 More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libraries](https://www.arduino.cc/en/Guide/Libraries).
 
-
-</div>
-</details>
-
----
-## Arduino Playground Project Descriptions:
-<details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏽‍💻👩🏻‍🔬</summary>
-
-### Getting Started Project:  
-  Plug your sensor in for the first time!  Blink an LED with your pulse, live.
-
-- [**Project Page**](https://pulsesensor.com/pages/code-and-guide)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
----
-
-### Calculate BPM:  
-  Focus-in on the code that calculates a user's HeartRate Beats Per Minute, "BPM".    
-  See the best practises to get the best signal.  
-
-- [**Project Page**](https://pulsesensor.com/pages/getting-advanced)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingAdvanced_bb_1024x1024.png?v=1511986194" width="400">
----
-
-### Make A Sound to a live Heartbeat:  
-  Transform the heartbeat into a live "beep" with a speaker.  
-
-- [**Project Page**](https://pulsesensor.com/pages/pulse-sensor-speaker-tutorial)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_Speaker_bb_61a0333f-e868-4123-961d-7456a31fa928_1024x1024.png?v=1510863829" width="400">
----  
-
-### Move a Motor to a live Heartbeat:  
-  Make a servo motor pulse to your live heartbeat.  
-
-- [**Project Page**](https://pulsesensor.com/pages/pulse-sensor-servo-tutorial)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_Servo_bb_87fce9fc-dc47-4208-b708-a7edb6df58a2_1024x1024.png?v=1510863990" width="400">
- ---
-
-### Connect Two (or more) Pulse Sensors:  
-  Use 2 or more Pulse Sensors on one Arduino.  
-
-- [**Project Page**](https://pulsesensor.com/pages/two-or-more-pulse-sensors)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/2_PulseSensors_bb_grande.png?v=1516733684" width="400">
- ---
-
-### Processing Visualizer:
-
-  Get detailed visualization of the heart's pulse and behavior. Send the PulseSensor data into Processing!
-
-- [**Project Page**](https://pulsesensor.com/pages/getting-advanced)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/ScreenShot_1024x1024.png?v=1491857113" width="400">
-
----
-
-### Pulse Transit Time:
-
-  Use two Pulse Sensors on different parts of your body to measure Pulse Transit Time!
-
-- [**Project Page**](https://pulsesensor.com/pages/pulse-transit-time)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_PTT-17042_grande.jpg?v=1517336059" width="400">
-
----
-## Arduino Playground Project Descriptions:
-<details><summary><code>Tinker and Experiment with Popular Projects </code> 👩🏽‍💻👩🏻‍🔬</summary>
-
-### Getting Started Project:  
-  Plug your sensor in for the first time!  Blink an LED with your pulse, live.
-
-- [**Project Page**](https://pulsesensor.com/pages/code-and-guide)
-
-  <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
----
 
 </div>
 </details>
