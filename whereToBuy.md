@@ -1,7 +1,7 @@
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 
-# [PulseSensor.com](https://pulsesensor.com) Playground
+## [PulseSensor.com](https://pulsesensor.com) Playground
 ```
 This Playground is a collection of code for the most popular uses of PulseSensor and Arduino.  
 
@@ -12,11 +12,15 @@ This Playground is a collection of code for the most popular uses of PulseSensor
 ```
 
 ---
+
 ## Getting The Hardware 
  <details><summary><code>Where to Buy </code> 💰 </summary>
 
 A lot of people ask us: "How can I buy a legit 'PulseSensor.com sensor' from you two?".  
 Depending on where you live, we generally send people here:
+
+###Place 1
+[here](#place-2)
 
 | USA 🇺🇸  |verified ✔︎  |
 | ------------- | ------------- |
@@ -79,6 +83,7 @@ AdaFruit:
 ---
 ## Install the PulseSensor Playground Library !
  <details><summary><code>How To Install:  </code> 🤓</summary>
+### 
 
 An Arduino Library is a collection of code and examples on a specific topic or device.  For example, our PulseSensor Playground Library is a collection of code and projects made just for your PulseSensor and Arduino.
 
@@ -118,7 +123,7 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
 
 ---
 ## Playground Project Descriptions:
-
+<details><summary><code>Arduino Project Plug & Play </code> 👩🏽‍💻👩🏻‍🔬</summary>
 
 ### Getting Started Project:  
   Plug your sensor in for the first time!  Blink an LED with your pulse, live.
@@ -128,5 +133,7 @@ More Info On Libraries in General 👉    [https://www.arduino.cc/en/Guide/Libra
   <img src="https://cdn.shopify.com/s/files/1/0100/6632/files/PulseSensor_GettingStarted_bb_1024x1024.png?v=1511986616" width="400">
 ---
 
+</div>
+</details>
 
 
