@@ -1,8 +1,8 @@
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 ## [PulseSensor.com](https://pulsesensor.com) Playground
+<a href="url"><img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/youtube2.png" align="left" width="480" ></a>
 
-[![How to Update Code Library](https://github.com/yury-g/MyCodePlayground/blob/master/images/youtube2.png)](https://youtu.be/Pt0fJvIeryY "How to Update Your Code Library")
 
 ```
 This Playground is a collection of code for the most popular uses of PulseSensor and Arduino.  
