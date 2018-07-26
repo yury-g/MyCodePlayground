@@ -1,7 +1,9 @@
 
 ![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 ## [PulseSensor.com](https://pulsesensor.com) Playground
-<a href="url"><img src="https://github.com/yury-g/MyCodePlayground/blob/master/images/youtube2.png" align="left" width="480" ></a>
+[![Alt text](https://How To Update Your Code Library?raw=true)](https://youtu.be/Pt0fJvIeryY)
+
+
 
 
 ```
