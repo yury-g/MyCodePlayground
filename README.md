@@ -1,16 +1,19 @@
 
-![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200) 
-# [PulseSensor.com](https://pulsesensor.com) Playground
+![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
+## [PulseSensor.com](https://pulsesensor.com) Playground
+[![Alt text](https://github.com/yury-g/MyCodePlayground/blob/master/screenshot-opener-video.png?raw=true)](https://youtu.be/Pt0fJvIeryY)
+
 ```
 This Playground is a collection of code for the most popular uses of PulseSensor and Arduino.  
 
-- The playgroud includes a number of projects, with the code already written-out and commented! 🤘 
 - Use this code to get started quickly, or do advanced stuff. 👍
+- Playground code is already written-out and commented! 🤘 
 - Switch between projects right in the Arduino IDE (software). 💻
-- Contritube your projects code back to the GitHub hive-mind. 🐝
+- Contritube your project's code back to the GitHub hive-mind. 🐝
 ```
 
 ---
+
 ## Install the PulseSensor Playground Library ! 
  <details><summary><code>How To Install:  </code> 🤓</summary>
 
